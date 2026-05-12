@@ -1,16 +1,15 @@
-## Hi there 👋
+## Salutations,
 
-<!--
-**ReiRingo/ReiRingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"I am a generalist programmer with interests across multiple domains."**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+| :--- | :--- |
+| **Native** | ![C](https://img.shields.io/badge/C-212121?style=flat-square&logo=c&logoColor=white) |
+| **Exploring** | ![C++](https://img.shields.io/badge/C++-212121?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-212121?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-212121?style=flat-square&logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-212121?style=flat-square&logo=dart&logoColor=white) ![GameMaker Language](https://img.shields.io/badge/GameMaker-Language-212121?style=flat-square&logo=gamemaker&logoColor=white) |
+| **Focus** | `Systems` • `Graphics` • `Embedded` • `Game Dev` |
+
+---
+
+> "A Novice-level practitioner. Developing proficiency in low-level debugging."

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=F7CBC4&background=63445A00&center=true&vCenter=true&width=440&height=90&lines=Rei+loves+many+kinds+of+programming!;Like+Graphics+Programming%2C;Systems+Programming%2C;Embedded+Systems+Programming;Game+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=F7CBC4&background=63445A00&center=true&vCenter=true&width=440&height=50&lines=Rei+loves+many+kinds+of+programming!;Like+Graphics+Programming%2C;Systems+Programming%2C;Embedded+Systems+Programming;Game+Development)](https://git.io/typing-svg)
 
 ## Salutations,
 

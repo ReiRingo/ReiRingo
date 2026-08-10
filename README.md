@@ -1,6 +1,8 @@
 <div align="center">
 
+<!-- TODO: Refactor soon
 <img src="./volabanner.png" alt="Banner" width="100%" style="max-width: 800px; border-radius: 30px;">
+-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7CBC4&background=63445A00&center=true&vCenter=true&width=500&height=50&lines=System+Kernel+Initialising...;Loading+Graphics+Pipeline...;Mounting+Embedded+Peripherals...;Executing+Main_Loop.exe)](https://git.io/typing-svg)
 
@@ -29,13 +31,15 @@ I specialise in low-level systems, web technologies, and game design. While I ca
 
 | ⚙️ Low-Level & Systems | 🎮 Game Development | 🌐 Web & Application |
 | :--- | :--- | :--- |
-| • Bare-Metal C <br> • Memory Management <br> • Pointer Arithmetic | • GameMaker / GML <br> • Mechanics Design <br> • C# & Java Logic | • HTML5 / CSS3 <br> • JavaScript <br> • Utility Scripting |
+| • Bare-Metal C <br> • Memory Management <br> • Pointer Arithmetic | • GameMaker / GML <br> • Mechanics Design <br> • Making systems | • HTML5 / CSS3 <br> • JavaScript <br> • Utility Scripting |
 
 <br>
 
 ### 🧰 Tech Stack
 
 <div align="left">
+
+<!-- Hunting for these badges are vexing me. -->
 
 <!-- Low-Level & Languages -->
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />

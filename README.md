@@ -1,17 +1,55 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=F7CBC4&background=63445A00&center=true&vCenter=true&width=440&height=50&lines=Rei+loves+many+kinds+of+programming!;Like+Graphics+Programming%2C;Systems+Programming%2C;Embedded+Systems+Programming;Game+Development)](https://git.io/typing-svg)
+<div align="center">
 
-## Salutations,
+<img src="./volabanner.png" alt="Banner" width="100%" style="max-width: 800px; border-radius: 30px;">
 
-**"I am a generalist programmer with interests across multiple domains."**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7CBC4&background=63445A00&center=true&vCenter=true&width=500&height=50&lines=System+Kernel+Initialising...;Loading+Graphics+Pipeline...;Mounting+Embedded+Peripherals...;Executing+Main_Loop.exe)](https://git.io/typing-svg)
 
----
+**Generalist Systems & Low-Level Practitioner** 
+<br>
 
-| | |
-| :--- | :--- |
-| **Native** | ![C](https://img.shields.io/badge/C-212121?style=flat-square&logo=c&logoColor=white) |
-| **Exploring** | ![C++](https://img.shields.io/badge/C++-212121?style=flat-square&logo=cplusplus&logoColor=white) ![NASM](https://img.shields.io/badge/NASM-212121?style=flat-square&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-212121?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-212121?style=flat-square&logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-212121?style=flat-square&logo=dart&logoColor=white) ![GameMaker Language](https://img.shields.io/badge/GameMaker-Language-212121?style=flat-square&logo=gamemaker&logoColor=white) |
-| **Focus** | `Systems` • `Graphics` • `Embedded` • `Game Dev` • `Utilities` |
+</div>
 
 ---
 
-> "A Novice-level practitioner. Developing proficiency in low-level debugging."
+> **Philosophy:** *Code doesn't have to mean not-fun!* 👾
+
+### 🚀 About Me
+
+I specialise in low-level systems, web technologies, and game design. While I can build across the software spectrum.
+
+- ⚡ **Current Focus:** Developing proficiency in low-level debugging & pointer arithmetic in **C**.
+- 🌱 **Learning:** Expanding my understanding of system architectures and game development pipelines.
+- 🎯 **Target Domains:** Systems • Graphics • Embedded • Utilities • Game Development
+
+---
+
+### 🗺️ Technical Focus
+
+| ⚙️ Low-Level & Systems | 🎮 Game Development | 🌐 Web & Application |
+| :--- | :--- | :--- |
+| • Bare-Metal C <br> • Memory Management <br> • Pointer Arithmetic | • GameMaker / GML <br> • Mechanics Design <br> • C# & Java Logic | • HTML5 / CSS3 <br> • JavaScript <br> • Utility Scripting |
+
+<br>
+
+### 🧰 Tech Stack
+
+<div align="left">
+
+<!-- Low-Level & Languages -->
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- Game Dev -->
+<img src="https://img.shields.io/badge/GameMaker-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white" />
+
+</div>
+
+---
+
+> Rei Taylor; Creator of Dandelions RPG and Skyerofall RPG

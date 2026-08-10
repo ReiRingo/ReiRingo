@@ -15,7 +15,9 @@
 
 ### 🚀 About Me
 
-I specialise in low-level systems, web technologies, and game design. While I can build across the software spectrum.
+<!-- hell, I forgot! -->
+
+I specialise in low-level systems, web technologies, and game design. While I can build across the software spectrum, I am horrible at OO or non-procedural paradigms T~T
 
 - ⚡ **Current Focus:** Developing proficiency in low-level debugging & pointer arithmetic in **C**.
 - 🌱 **Learning:** Expanding my understanding of system architectures and game development pipelines.
